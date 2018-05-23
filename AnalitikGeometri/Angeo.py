@@ -34,7 +34,7 @@ class Line:
 		return [a,b]
 
 	"""	Doğru parçasının orta noktası """
-	def MiddleOfLinePiece(x,y):
+	def MidpointOfLinePiece(x,y):
 		 return [(x[0]+y[0])/2,(x[1]+y[1])/2]
 		
 	"""def p(x,y,z): 
